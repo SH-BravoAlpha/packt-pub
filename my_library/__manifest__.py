@@ -20,7 +20,7 @@
     'version': '12.0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'decimal_precision'],
 
     # always loaded
     'data': [
